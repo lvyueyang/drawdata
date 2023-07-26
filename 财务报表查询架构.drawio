@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T08:40:12.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="hwyE6pX4jYFMan0v9lGc" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T06:06:52.964Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="CAHWuN9bSA59gY4MdtlW" version="21.5.2" type="github">
   <diagram name="第 1 页" id="1ec_RS1h40ruIxiW34ki">
-    <mxGraphModel dx="3251" dy="2522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2248" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uWsUh_MkO-yihfhjnB21-5" value="映射表管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="637" y="-660" width="500" height="40" as="geometry" />
+          <mxGeometry x="2345" y="-327.5" width="1425" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uWsUh_MkO-yihfhjnB21-6" value="财务报表管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="637" y="-310" width="503" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uWsUh_MkO-yihfhjnB21-8" value="部门与板块对应关系" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="637" y="-575" width="230" height="50" as="geometry" />
+          <mxGeometry x="2345" y="-240" width="350" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uWsUh_MkO-yihfhjnB21-9" value="客户与分类对应关系" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="900" y="-580" width="240" height="55" as="geometry" />
+          <mxGeometry x="2780" y="-242.5" width="320" height="55" as="geometry" />
         </mxCell>
         <mxCell id="uWsUh_MkO-yihfhjnB21-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="uWsUh_MkO-yihfhjnB21-11" target="uWsUh_MkO-yihfhjnB21-21">
           <mxGeometry relative="1" as="geometry" />
@@ -41,10 +41,10 @@
           <mxGeometry x="640" y="-230" width="220" height="55" as="geometry" />
         </mxCell>
         <mxCell id="uWsUh_MkO-yihfhjnB21-16" value="项目与项目实际状态对应关系" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="897" y="-490" width="240" height="55" as="geometry" />
+          <mxGeometry x="3170" y="-242.5" width="240" height="55" as="geometry" />
         </mxCell>
         <mxCell id="uWsUh_MkO-yihfhjnB21-17" value="项目与账龄对应关系" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="637" y="-490" width="230" height="55" as="geometry" />
+          <mxGeometry x="3500" y="-242.5" width="230" height="55" as="geometry" />
         </mxCell>
         <mxCell id="uWsUh_MkO-yihfhjnB21-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="uWsUh_MkO-yihfhjnB21-19" target="uWsUh_MkO-yihfhjnB21-11">
           <mxGeometry relative="1" as="geometry" />
@@ -150,16 +150,16 @@
           <mxGeometry x="1995" y="425" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uWsUh_MkO-yihfhjnB21-55" value="公共 services" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2481" y="-652.5" width="510" height="45" as="geometry" />
+          <mxGeometry x="2691" y="-650" width="510" height="45" as="geometry" />
         </mxCell>
         <mxCell id="uWsUh_MkO-yihfhjnB21-56" value="数据封存服务" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2481" y="-567.5" width="240" height="40" as="geometry" />
+          <mxGeometry x="2691" y="-565" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uWsUh_MkO-yihfhjnB21-57" value="配置存储服务" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2751" y="-567.5" width="240" height="40" as="geometry" />
+          <mxGeometry x="2961" y="-565" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uWsUh_MkO-yihfhjnB21-58" value="缓存服务" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2481" y="-487.5" width="240" height="40" as="geometry" />
+          <mxGeometry x="2691" y="-485" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uWsUh_MkO-yihfhjnB21-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uWsUh_MkO-yihfhjnB21-60" target="uWsUh_MkO-yihfhjnB21-68">
           <mxGeometry relative="1" as="geometry" />
@@ -174,22 +174,22 @@
           <mxGeometry x="-455" y="-222.5" width="740" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uWsUh_MkO-yihfhjnB21-61" value="配置管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="-660" width="640" height="40" as="geometry" />
+          <mxGeometry x="4480" y="-340" width="640" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uWsUh_MkO-yihfhjnB21-62" value="项目台账" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="-580" width="320" height="55" as="geometry" />
+          <mxGeometry x="4481" y="-260" width="320" height="55" as="geometry" />
         </mxCell>
         <mxCell id="uWsUh_MkO-yihfhjnB21-63" value="序时账" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="-580" width="310" height="55" as="geometry" />
+          <mxGeometry x="4810" y="-260" width="310" height="55" as="geometry" />
         </mxCell>
         <mxCell id="uWsUh_MkO-yihfhjnB21-64" value="合同台账" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="-500" width="320" height="55" as="geometry" />
+          <mxGeometry x="4480" y="-180" width="320" height="55" as="geometry" />
         </mxCell>
         <mxCell id="uWsUh_MkO-yihfhjnB21-65" value="辅助余额表&amp;nbsp;112201 应收账款-项目款&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="-500" width="310" height="55" as="geometry" />
+          <mxGeometry x="4810" y="-180" width="310" height="55" as="geometry" />
         </mxCell>
         <mxCell id="uWsUh_MkO-yihfhjnB21-67" value="辅助余额表&amp;nbsp;1423 合同履约成本&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="-430" width="310" height="55" as="geometry" />
+          <mxGeometry x="4810" y="-110" width="310" height="55" as="geometry" />
         </mxCell>
         <mxCell id="uWsUh_MkO-yihfhjnB21-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uWsUh_MkO-yihfhjnB21-68" target="uWsUh_MkO-yihfhjnB21-72">
           <mxGeometry relative="1" as="geometry" />
@@ -211,6 +211,9 @@
         </mxCell>
         <mxCell id="uWsUh_MkO-yihfhjnB21-81" value="筛选计算" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-145" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uWsUh_MkO-yihfhjnB21-86" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 部门: &#39;板块二管理部&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 板块: &#39;板块二&#39;,&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="-155" width="195" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
