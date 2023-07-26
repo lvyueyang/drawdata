@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T06:57:19.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="zjoSCp3HVofoGV94k4ig" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T07:31:48.308Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="36tREu3FjnjVQDKW0gd-" version="21.5.2" type="github">
   <diagram name="第 1 页" id="1ec_RS1h40ruIxiW34ki">
-    <mxGraphModel dx="3770" dy="2812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2544" dy="2127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -239,19 +239,19 @@
         <mxCell id="SoxdXa38NiNiZJWy6aRw-75" value="费用分析&lt;br&gt;对应&lt;br&gt;费用分析-取数" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2730" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SoxdXa38NiNiZJWy6aRw-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SoxdXa38NiNiZJWy6aRw-77" target="SoxdXa38NiNiZJWy6aRw-81">
+        <mxCell id="SoxdXa38NiNiZJWy6aRw-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#002900;" edge="1" parent="1" source="SoxdXa38NiNiZJWy6aRw-77" target="SoxdXa38NiNiZJWy6aRw-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SoxdXa38NiNiZJWy6aRw-77" value="辅助余额表 （112201-应收账款-项目款&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+        <mxCell id="SoxdXa38NiNiZJWy6aRw-77" value="辅助余额表 （112201-应收账款-项目款&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fillColor=#008a00;fontColor=#ffffff;strokeColor=#002900;" vertex="1" parent="1">
           <mxGeometry x="3010" y="-245" width="340" height="55" as="geometry" />
         </mxCell>
         <mxCell id="SoxdXa38NiNiZJWy6aRw-78" value="客户与分类对应关系" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="4060.0024791418355" y="-245" width="271.3110846245531" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="SoxdXa38NiNiZJWy6aRw-79" value="项目与项目实际状态对应关系" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+        <mxCell id="SoxdXa38NiNiZJWy6aRw-79" value="项目与项目实际状态对应关系" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="4400" y="-245" width="260" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="SoxdXa38NiNiZJWy6aRw-80" value="辅助余额表 （1423-合同履约成本&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+        <mxCell id="SoxdXa38NiNiZJWy6aRw-80" value="辅助余额表 （1423-合同履约成本&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fillColor=#008a00;fontColor=#ffffff;strokeColor=#002900;" vertex="1" parent="1">
           <mxGeometry x="3390" y="-245" width="260" height="55" as="geometry" />
         </mxCell>
         <mxCell id="SoxdXa38NiNiZJWy6aRw-81" value="期末余额&lt;br&gt;对应&lt;br&gt;应收账款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -282,7 +282,7 @@
           <mxGeometry x="3860" y="90" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SoxdXa38NiNiZJWy6aRw-90" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 项目编号: 3532019,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 项目实际状态: &#39;存量&#39;,&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="4400" y="-130" width="270" height="95" as="geometry" />
+          <mxGeometry x="4400" y="-130" width="260" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
