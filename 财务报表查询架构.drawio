@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T06:51:41.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Z4pVENnO0LUCvC7q0Rsu" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T06:57:19.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="zjoSCp3HVofoGV94k4ig" version="21.5.2" type="github">
   <diagram name="第 1 页" id="1ec_RS1h40ruIxiW34ki">
-    <mxGraphModel dx="4260" dy="3086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3770" dy="2812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="211.5" y="10" width="126" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SoxdXa38NiNiZJWy6aRw-4" value="映射表管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2331" y="-390" width="1425" height="40" as="geometry" />
+          <mxGeometry x="2300" y="-390" width="2419" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SoxdXa38NiNiZJWy6aRw-5" value="财务报表管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="637" y="-310" width="503" height="40" as="geometry" />
@@ -150,16 +150,16 @@
           <mxGeometry x="1995" y="425" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SoxdXa38NiNiZJWy6aRw-46" value="公共 services" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2691" y="-650" width="510" height="45" as="geometry" />
+          <mxGeometry x="2830" y="-890" width="510" height="45" as="geometry" />
         </mxCell>
         <mxCell id="SoxdXa38NiNiZJWy6aRw-47" value="数据封存服务" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2691" y="-565" width="240" height="40" as="geometry" />
+          <mxGeometry x="2830" y="-805" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SoxdXa38NiNiZJWy6aRw-48" value="配置存储服务" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2961" y="-565" width="240" height="40" as="geometry" />
+          <mxGeometry x="3100" y="-805" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SoxdXa38NiNiZJWy6aRw-49" value="缓存服务" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2691" y="-485" width="240" height="40" as="geometry" />
+          <mxGeometry x="2830" y="-725" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SoxdXa38NiNiZJWy6aRw-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SoxdXa38NiNiZJWy6aRw-53" target="SoxdXa38NiNiZJWy6aRw-61">
           <mxGeometry relative="1" as="geometry" />
@@ -174,22 +174,22 @@
           <mxGeometry x="-455" y="-222.5" width="740" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SoxdXa38NiNiZJWy6aRw-54" value="配置管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="4480" y="-340" width="640" height="40" as="geometry" />
+          <mxGeometry x="3490" y="-880" width="640" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SoxdXa38NiNiZJWy6aRw-55" value="项目台账" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="4481" y="-260" width="320" height="55" as="geometry" />
+          <mxGeometry x="3491" y="-800" width="320" height="55" as="geometry" />
         </mxCell>
         <mxCell id="SoxdXa38NiNiZJWy6aRw-56" value="序时账" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="4810" y="-260" width="310" height="55" as="geometry" />
+          <mxGeometry x="3820" y="-800" width="310" height="55" as="geometry" />
         </mxCell>
         <mxCell id="SoxdXa38NiNiZJWy6aRw-57" value="合同台账" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="4480" y="-180" width="320" height="55" as="geometry" />
+          <mxGeometry x="3490" y="-720" width="320" height="55" as="geometry" />
         </mxCell>
         <mxCell id="SoxdXa38NiNiZJWy6aRw-58" value="辅助余额表&amp;nbsp;112201 应收账款-项目款&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="4810" y="-180" width="310" height="55" as="geometry" />
+          <mxGeometry x="3820" y="-720" width="310" height="55" as="geometry" />
         </mxCell>
         <mxCell id="SoxdXa38NiNiZJWy6aRw-59" value="辅助余额表&amp;nbsp;1423 合同履约成本&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="4810" y="-110" width="310" height="55" as="geometry" />
+          <mxGeometry x="3820" y="-650" width="310" height="55" as="geometry" />
         </mxCell>
         <mxCell id="SoxdXa38NiNiZJWy6aRw-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SoxdXa38NiNiZJWy6aRw-61" target="SoxdXa38NiNiZJWy6aRw-65">
           <mxGeometry relative="1" as="geometry" />
@@ -246,10 +246,10 @@
           <mxGeometry x="3010" y="-245" width="340" height="55" as="geometry" />
         </mxCell>
         <mxCell id="SoxdXa38NiNiZJWy6aRw-78" value="客户与分类对应关系" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
-          <mxGeometry x="4120.0024791418355" y="-240" width="271.3110846245531" height="55" as="geometry" />
+          <mxGeometry x="4060.0024791418355" y="-245" width="271.3110846245531" height="55" as="geometry" />
         </mxCell>
         <mxCell id="SoxdXa38NiNiZJWy6aRw-79" value="项目与项目实际状态对应关系" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
-          <mxGeometry x="3570.002514898689" y="-480" width="383.02741358760437" height="55" as="geometry" />
+          <mxGeometry x="4400" y="-245" width="260" height="55" as="geometry" />
         </mxCell>
         <mxCell id="SoxdXa38NiNiZJWy6aRw-80" value="辅助余额表 （1423-合同履约成本&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="3390" y="-245" width="260" height="55" as="geometry" />
@@ -257,20 +257,32 @@
         <mxCell id="SoxdXa38NiNiZJWy6aRw-81" value="期末余额&lt;br&gt;对应&lt;br&gt;应收账款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3085" y="-125" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SoxdXa38NiNiZJWy6aRw-82" value="期末余额&lt;br&gt;对应&lt;br&gt;应收账款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4160.66" y="55" width="190" height="60" as="geometry" />
+        <mxCell id="SoxdXa38NiNiZJWy6aRw-82" value="Y22&lt;br&gt;对应&lt;br&gt;去年" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3722" y="90" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SoxdXa38NiNiZJWy6aRw-83" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 客户单位名称: &#39;北京机电工程研究所&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 客户分类: &#39;科研院所&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="4120" y="-145" width="270" height="95" as="geometry" />
+          <mxGeometry x="4060" y="-135" width="270" height="95" as="geometry" />
         </mxCell>
         <mxCell id="SoxdXa38NiNiZJWy6aRw-84" value="期末余额&lt;br&gt;对应&lt;br&gt;合同履约成本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3390" y="-125" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SoxdXa38NiNiZJWy6aRw-85" value="项目与账龄对应关系" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
-          <mxGeometry x="3722.0024791418355" y="-245" width="271.3110846245531" height="55" as="geometry" />
+          <mxGeometry x="3722" y="-245" width="248" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="SoxdXa38NiNiZJWy6aRw-86" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;项目编号: 634,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;客户分类: &#39;科研院所&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Y22: 3141517.93,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Y21及之前: 1494749.4999999995,&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="3730" y="-130" width="230" height="150" as="geometry" />
+        <mxCell id="SoxdXa38NiNiZJWy6aRw-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SoxdXa38NiNiZJWy6aRw-86" target="SoxdXa38NiNiZJWy6aRw-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SoxdXa38NiNiZJWy6aRw-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SoxdXa38NiNiZJWy6aRw-86" target="SoxdXa38NiNiZJWy6aRw-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SoxdXa38NiNiZJWy6aRw-86" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;项目编号: 634,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;客户分类: &#39;科研院所&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;b&gt;Y22&lt;/b&gt;: 3141517.93,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;b&gt;Y21及之前&lt;/b&gt;: 1494749.4999999995,&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="3730" y="-130" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SoxdXa38NiNiZJWy6aRw-88" value="Y21及之前&lt;br&gt;对应&lt;br&gt;前年及以前" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3860" y="90" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SoxdXa38NiNiZJWy6aRw-90" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 项目编号: 3532019,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 项目实际状态: &#39;存量&#39;,&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="4400" y="-130" width="270" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
